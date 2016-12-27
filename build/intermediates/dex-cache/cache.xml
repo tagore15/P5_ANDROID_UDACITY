@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="H:\ANDROID_NANODEGREE\P5\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\support-v13\22.0.0\jars\libs\internal_impl-22.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="def3eff2b7b4774d96ae15b07b3fc0111edbfe24">
+        <dex dex="H:\ANDROID_NANODEGREE\P5\xyzreader\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-22.0.0_15969d19098ab1156e5c7f271f4fd10fd6ccbd93\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="H:\ANDROID_NANODEGREE\P5\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\libs\internal_impl-22.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="H:\ANDROID_NANODEGREE\P5\xyzreader\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-22.2.0_b0ee8dad67b3139a9dd966cdea320eb24191077c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="H:\ANDROID_NANODEGREE\P5\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="H:\ANDROID_NANODEGREE\P5\xyzreader\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-22.2.0_5995c856a412bd7dcd7e0beec0ed82f00b81125c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="H:\ANDROID_NANODEGREE\P5\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\cardview-v7\22.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="11842de6a309c447b3a3d60d73ad637a87c58994">
+        <dex dex="H:\ANDROID_NANODEGREE\P5\xyzreader\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-cardview-v7-22.0.0_665469749a5d163181cbec6581942bfa4b08dbe2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="H:\ANDROID_NANODEGREE\P5\xyzreader\XYZReader\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="dc834203830535d520fe2e5111f093cd1f60d794">
+        <dex dex="H:\ANDROID_NANODEGREE\P5\xyzreader\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_f80df37fdcdb16ed1d3b8c3d7292cf16e0feca83\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="H:\ANDROID_NANODEGREE\P5\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\design\22.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="fc63b820d54c8a27a3a614bdd93920e0076581c2">
+        <dex dex="H:\ANDROID_NANODEGREE\P5\xyzreader\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-22.2.0_ae4c0ff716297bfaf11a20e8ec5c17ab0fc861e6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="H:\ANDROID_NANODEGREE\P5\xyzreader\XYZReader\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="c7a655d85dc1ec1ff28fe8dd98f0741141788089">
+        <dex dex="H:\ANDROID_NANODEGREE\P5\xyzreader\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_bef45e7fdd6fd092a5d5bc01c7515e32e83cb62c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="H:\ANDROID_NANODEGREE\P5\xyzreader\XYZReader\libs\volley.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="c68094cbd011a3f9dccbfe16e77a2cf43622e277">
+        <dex dex="H:\ANDROID_NANODEGREE\P5\xyzreader\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\2\volley_c0cf89e3095e8910d16e9cef1c4b8f4fb8870011\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="H:\ANDROID_NANODEGREE\P5\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\support-v13\22.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="7f9cca1caa023a880b00c382bcc5c90245ae4895">
+        <dex dex="H:\ANDROID_NANODEGREE\P5\xyzreader\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v13-22.0.0_4edeeb427676cd242578fee257e63225200821e1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="H:\ANDROID_NANODEGREE\P5\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="H:\ANDROID_NANODEGREE\P5\xyzreader\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-22.2.0_2ad696ea4bb83c163fa60c9bc320ceef55be6ece\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="H:\ANDROID_NANODEGREE\P5\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\palette-v7\22.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="285506e1cf9d5a66878e2aab3884b3427f8734e9">
+        <dex dex="H:\ANDROID_NANODEGREE\P5\xyzreader\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-palette-v7-22.0.0_16f22a13a00bf9bcd86fa6ce50bfd0989addf5a4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\jmd\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.1.2\7052283359001bb108753cb0583a887d3bf94c82\okhttp-3.1.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="7052283359001bb108753cb0583a887d3bf94c82">
+        <dex dex="H:\ANDROID_NANODEGREE\P5\xyzreader\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\okhttp-3.1.2_fa29e6f9c7138bf5afe05b571538a2cfe57f4e56\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\jmd\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.6.0\98476622f10715998eacf9240d6b479f12c66143\okio-1.6.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="H:\ANDROID_NANODEGREE\P5\xyzreader\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\okio-1.6.0_92c35dd15f1e65905ef37691db8300460de3de30\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\jmd\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.2.0\support-annotations-22.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="H:\ANDROID_NANODEGREE\P5\xyzreader\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-22.2.0_890ff4c885c168f8ce2d8ffbdd5d51fb62b4be00\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="H:\ANDROID_NANODEGREE\P5\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\22.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="c6d79137693d494dee16372d3921f919eb724ced">
+        <dex dex="H:\ANDROID_NANODEGREE\P5\xyzreader\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-22.0.0_4e61637aeac59fbf15682306785c29c41ad6751b\classes.dex" />
+    </item>
+
+</items>
